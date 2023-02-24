@@ -56,7 +56,7 @@ int main(){
     return 0;
 }
 
-# Latihan 2 - Next Code
+//Latihan 2 - Next Code
 #include <iostream>
 using namespace std;
 
