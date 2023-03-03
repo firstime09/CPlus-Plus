@@ -1,21 +1,3 @@
-1 of 786
-Circular LL
-Inbox
-Felliks Feiters Tampinongkol
-	
-Attachments15:29 (44 minutes ago)
-	
-to me
-
-
-Universitas Bunda Mulia - Bridging Education to the Real World
-Kampus Ancol: Jl. Lodan Raya No. 2 Ancol, Jakarta Utara 14430
-Kampus Serpong: Jl. Jalur Sutera Barat kav 7-9, Alam Sutera, Tangerang, Banten 15143
-Telp: (021) 692-9090 - Fax: (021) 690-9712 - Call Center: (021) 690 9090
-E-mail: info@ubm.ac.id - website: http://www.ubm.ac.id
- One attachment  • Scanned by Gmail
-	
-
 // Class Node, similar to the linked list
 class Node{
     int value;
